@@ -38,7 +38,7 @@ body{
 }
 
 #pf-pic {
-  background-image: url("../images/vrk.png");
+  background-image: url("images/vrk.png");
   background-size: cover;
   background-position:center;
   border-radius: 100%;
